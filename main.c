@@ -118,9 +118,9 @@ long device_ioctl(struct file *pfile,             /* ditto */
     int r,s,q;
     //int j;
     int temp;			//,temp2;
-int p;
-unsigned long get_time;
-int sec; 		//, hr, min, tmp1,tmp2, tmp3;
+    int p;
+    unsigned long get_time;
+    int sec; 		//, hr, min, tmp1,tmp2, tmp3;
 //struct timeval tv;
 
   
