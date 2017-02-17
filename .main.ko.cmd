@@ -1,0 +1,1 @@
+cmd_/home/sanchit/Assignment1/main.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sanchit/Assignment1/main.ko /home/sanchit/Assignment1/main.o /home/sanchit/Assignment1/main.mod.o
